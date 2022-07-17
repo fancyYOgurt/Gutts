@@ -1,0 +1,3 @@
+"ip" pagalronan.aternos.me
+"port" 53339
+"name" few
